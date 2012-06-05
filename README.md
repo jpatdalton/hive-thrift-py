@@ -1,4 +1,3 @@
-hive-thrift-py
-==============
+# Python Hive Thrift Library
 
-hive-thrift-py
+Python Thrift library included in Hive 0.9
