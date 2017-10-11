@@ -10,6 +10,7 @@ setup(
     long_description="Hive Python Thrift Libs",
     license = "Apache License",
     keywords = "hive hadoop thrift",
+    use_2to3 = True,
     url = "http://hive.apache.org",
     packages=find_packages('src/'),
     package_dir = {'':'src'},
